@@ -1,6 +1,7 @@
 # Gamer Ammo, Inc. Design Asset Git Repository
 ## Copyright 2017 Gamer Ammo, Inc. All Rights Reserved.
-**The purpose of this README.md is to outline general usage, practice, and guiides within this repository as well as provide nesecary instructions for contribution and repurposing of the material,***
+**The purpose of this README.md is to outline general usage, practice, and guiides within this repository as well as provide nesecary instructions for contribution and repurposing of the material.**
+
 *The contents of this folders are copyrighted material of Gamer Ammo, Inc. a Michigan based corperation in the United States of America. The contents of this repository may not be use for reproduction or repurposing without the proper form of content or licensing agreement outline below and within the use-this.txt file of each directory.*
 
 
@@ -14,9 +15,9 @@ Here we will outline proper file structure setup for this repository. Please fol
 ### Directories
 This repository has one directory at the parent level called assets. The following directories within it:
 
-####logos
+#### gamerammo/
 
-# This is the maain directory for all gamerammo logos. This includes logos as icons, banners, or any other form of production of the gamerammo logo that may need to be done.
+This is the maain directory for all gamerammo brand assets. This includes banners, logos, icons, previews, website/app assets,  or any other form of production of the gamerammo asset that may need to be done.
 
 * banners/
   * banners/main/
