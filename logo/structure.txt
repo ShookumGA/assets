@@ -1,0 +1,24 @@
+#Gamer Ammo, Inc. Copyright 2017
+#Express written consent for the reproduction of any working files is required.
+
+
+#####File Folder Structure#####
+#This file is here to introduce the file structure we will be using within our logo assets git repository.
+
+
+#####Folders
+##$DIR=/assets/logo/
+
+###SVG Files
+#$DIR/svg/ #is main svg subdirectory
+##File #Icon and Banner
+#$DIR/svg/icon.svg
+#$DIR/svg/banner.svg
+##CSS
+#$DIR/svg/css/svg.css
+#$DIR/svg/css/svg.min.css
+##Previous Iterations
+#$DIR/svg/depreciated/date/of/last/use/banner.svg
+#$DIR/svg/deprecated/date/of/lsat/use/logo.svg
+#$DIR/svg/deprecanted/date/of/last/use/css/svg.css
+#$DIR/svg/deprecated/date/of/last/use/css/svg.min.css
