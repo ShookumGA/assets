@@ -1,7 +1,7 @@
 # Gamer Ammo, Inc. Design Asset Git Repository
-## Copyright 2017 Gamer Ammo, Inc. All Rights Reserved.
 **The purpose of this README.md is to outline general usage, practice, and guiides within this repository as well as provide nesecary instructions for contribution and repurposing of the material.**
 
+## Copyright 2017 Gamer Ammo, Inc. All Rights Reserved.
 *The contents of this folders are copyrighted material of Gamer Ammo, Inc. a Michigan based corperation in the United States of America. The contents of this repository may not be use for reproduction or repurposing without the proper form of content or licensing agreement outline below and within the use-this.txt file of each directory.*
 
 
