@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 900 350" style="enable-background:new 0 0 900 350;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#C2C2C1;}
+	.st2{font-family:'RogueSansExt-MediumIt';}
+	.st3{font-size:465px;}
+	.st4{letter-spacing:34;}
+</style>
+<font horiz-adv-x="1000">
+<!-- Copyright (c) 2004 by Rian Hughes / Device Fonts. All rights reserved. -->
+<!-- Copyright: Copyright 2017 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="RogueSansExt-MediumIt" units-per-em="1000" underline-position="-133" underline-thickness="20"/>
+<missing-glyph horiz-adv-x="450" d="M50,0l350,0l0,653l-350,0M70,633l144,-307l-144,-306M380,20l-144,306l144,307M225,303l133,-283l-266,0M92,633l266,0l-133,-283z"/>
+<glyph unicode="e" horiz-adv-x="592" d="M587,359C591,376 593,393 593,408C593,499 523,542 396,542l-37,0C215,542 117,482 91,360l-40,-187C47,154 45,137 45,121C45,32 109,-10 241,-10l250,16l16,76l-240,0C212,82 198,99 198,125C198,139 202,155 206,173l4,15l157,-17C509,171 556,212 584,344M430,360C411,271 398,254 291,254l-68,0l23,105C258,414 282,450 349,450l20,0C420,450 436,436 436,405C436,393 434,377 430,360z"/>
+<glyph unicode="i" horiz-adv-x="267" d="M335,665C339,687 317,708 261,708l-15,0C191,708 162,688 157,667l-9,-43C142,601 164,582 221,582l16,0C292,582 321,601 326,623M295,534l-153,0l-114,-536l153,0z"/>
+<glyph unicode="l" horiz-adv-x="278" d="M298,543C308,590 315,623 315,646C315,698 282,699 177,699l-149,-701l153,0z"/>
+<glyph unicode="v" horiz-adv-x="568" d="M639,534l-136,0l-186,-427l-45,0l-6,427l-164,0l34,-536l223,0z"/>
+</font>
+
+	<rect x="-1" y="8.5" class="st0" width="902" height="333"/>
+<text transform="matrix(1 0 0 1 -1 333.5303)" class="st1 st2 st3 st4">live</text>
+</svg>
